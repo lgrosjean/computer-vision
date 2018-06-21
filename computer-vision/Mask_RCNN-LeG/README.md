@@ -5,3 +5,10 @@ This is an implementation of Mask R-CNN on Python 3, Keras, and TensorFlow. The 
 The repo from which I pulled the code is https://github.com/matterport/Mask_RCNN.
 
 I don't use the `coco/PythonAPI` because of incompatibily but all the required functions and package are present.
+
+This is the image I tested :
+
+![hajar_input](images/hajar.jpg)
+
+And this is the result I got :
+![hajar_output](outputs/hajar_output.jpg)
