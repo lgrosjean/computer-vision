@@ -7,6 +7,8 @@ import skimage.io
 import matplotlib
 import matplotlib.pyplot as plt
 
+arg_list = sys.argv
+
 # Root directory of the project
 ROOT_DIR = os.path.abspath("./")
 
@@ -31,10 +33,12 @@ COCO_MODEL_PATH = os.path.join("mask_rcnn_coco.h5")
 if not os.path.exists(COCO_MODEL_PATH):
     utils.download_trained_weights(COCO_MODEL_PATH)
 
+print("Weights load ok")
+
 # Directory of images to run detection on
 IMAGE_DIR = os.path.join(ROOT_DIR, "images")
 
-print("ok")
+
 
 # COCO Class names
 # Index of the class in the list is its ID. For example, to get ID of
@@ -85,7 +89,7 @@ class InferenceConfig(CocoConfig):
 config = InferenceConfig()
 config.display()
 
-print("ok")
+print("Config ok")
 
 
 # Create model object in inference mode.
@@ -96,8 +100,9 @@ model.load_weights(COCO_MODEL_PATH, by_name=True)
 
 print("ok")
 
-# Load a random image from the images folder
-file_names = "hajar.jpg"
+# Load the image in argument
+file_names = arg_list[1]
+
 image = skimage.io.imread(os.path.join(IMAGE_DIR, file_names))
 
 # Run detection
