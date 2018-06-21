@@ -1,19 +1,16 @@
 # Deep Learning
 
-Les points de notre discussion : 
-Idéalement pendant les premières semaines tu te familiarise avec les liens ci-dessus. 
-Le but étant que assez vite d’ici 3-4 semaines on se prenne un cas d’usage business concret pour appliquer directement ce que t’as appris et guider la suite de ton apprentissage, 
+
 
 *	Quels objectifs pour ce projet : 
- *	Pour des clients comme LV, Montblanc ou n’importe quel client luxe (ou B2C): Sur des images qui viennent probablement des réseaux sociaux, détecter : 
+ *	Sur des images qui viennent probablement des réseaux sociaux, détecter : 
    *	Ce qu’il y a dans l’image (objet detection & classification)
    *	Des logos 
    *	Des émotions
- *	Peut être d’autres cas d’usage pour des clients comme Cartier Manufacturing
+ *	Peut être d’autres cas d’usage
  *	Se rappeler d’aller à l’essentiel et de toujours prendre des modèles pré entrainés
 
 *	Todo d’apprentissage 
- *	Regarder la formation CV R:\3. Knowledge\0000. Knowledge Management\06. MACHINE LEARNING\3. Déjeuners ML\ml_lunch\14. Introduction to Computer Vision 
  *	Top-down : 
    *	https://eu.udacity.com/course/deep-learning--ud730 
    *	http://www.fast.ai/  et http://course.fast.ai/
@@ -23,7 +20,6 @@ Le but étant que assez vite d’ici 3-4 semaines on se prenne un cas d’usage 
    *	https://fr.coursera.org/specializations/deep-learning 
 
 *	Liens en vrac 
-  *	https://github.com/TheoLvs/machine-learning/tree/master/1.%20Computer%20Vision 
   *	OpenCV : 
    *	https://pythonprogramming.net/loading-images-python-opencv-tutorial/ 
    *	Documentation officielle d’OpenCV https://docs.opencv.org/2.4/doc/tutorials 
