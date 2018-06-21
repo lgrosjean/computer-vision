@@ -11,4 +11,4 @@ This is the image I tested :
 ![hajar_input](images/hajar.jpg)
 
 And this is the result I got :
-![hajar_output](outputs/hajar_output.jpg)
+![hajar_output](outputs/hajar_output.png)
