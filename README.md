@@ -29,6 +29,6 @@
         *	Autres (mais moins intéressante pour nous) : CNTK (Microsoft), Caffe2 (Facebook), MXNET (Amazon), Paddle (Baidu)
 
 *	Quel hardware ? 
-   *	Soit sur ton ordi / CPU, lent mais toujours une possibilité
-   *	GPU sur le cloud https://www.paperspace.com/ https://www.floydhub.com/ 
-   *	GPU gratuit sur Kaggle / Colab https://colab.research.google.com/ 
+    *	Soit sur ton ordi / CPU, lent mais toujours une possibilité
+    *	GPU sur le cloud https://www.paperspace.com/ https://www.floydhub.com/ 
+    *	GPU gratuit sur Kaggle / Colab https://colab.research.google.com/ 
