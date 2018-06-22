@@ -1,6 +1,6 @@
 # Some project on computer vision
 
-##face_recognition
+## face_recognition
 
 It is the implementation of [Face Recognition](https://github.com/ageitgey/face_recognition). The dependencies are pretty hard to install but Anaconda does the job.
 
