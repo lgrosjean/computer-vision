@@ -61,7 +61,7 @@ while clickAgain:
     print("Scroll down!")
     number_of_click -= 1
 
-    sleep(5)
+    sleep(2.5)
 
     if number_of_click == 0:
 
