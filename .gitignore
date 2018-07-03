@@ -66,3 +66,5 @@ computer-vision/Mask_RCNN-2.1/utils.py
 computer-vision/Mask_RCNN-2.1/visualize.py
 computer-vision/Mask_RCNN-LeG/mask_rcnn_coco.h5
 *.jpg
+*.pyc
+*.avi
