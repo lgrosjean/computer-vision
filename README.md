@@ -37,5 +37,5 @@
 
 En mêlant reconnaissance faciale et scrapping (du site de la FIFA et de twitter), on peut obtenir ce genre de résultat
 
-![Giroud-Griezmann](Giroud_Griezmann.jpg?raw=true)
+![Giroud-Griezmann](https://image.ibb.co/gLGwPy/Giroud_Griezmann.jpg)
 
