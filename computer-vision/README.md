@@ -1,5 +1,7 @@
 # Some project on computer vision
 
+The final purpose is to train my own dataset to detect own classes (http://penseeartificielle.fr/mobilenet-ssd-identifier-objets-camera-smartphone/).
+
 ## face_recognition
 
 It is the implementation of [Face Recognition](https://github.com/ageitgey/face_recognition). The dependencies are pretty hard to install but Anaconda does the job.
