@@ -39,3 +39,6 @@ En mêlant reconnaissance faciale et scrapping (du site de la FIFA et de twitter
 
 ![Giroud-Griezmann](https://image.ibb.co/gLGwPy/Giroud_Griezmann.jpg)
 
+![Messi](https://image.ibb.co/gnFvHJ/test3.jpg)
+
+![Giroud-Lloris](https://image.ibb.co/cSxsxJ/test.jpg)
