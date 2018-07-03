@@ -1,0 +1,6 @@
+consumer_key = 'yG5hA8lq8SyDWPg3FyGkkn4dY'
+consumer_secret = 'FXatGYP4le29pEaUXuhqyDWT2pdhACrN6mhtENI6F743FhKX7E'
+access_token = '233629180-i6PmCl1BaF130Un08ZiwJlQPcopWrloZXNSkwIST'
+access_secret = 'IeCRaIDxqnrezBrJYabgQSuyAnqaxpD9uG6R9zOIgvBqj'
+owner_id = '233629180'
+owner = 'Gro_leo'
