@@ -69,7 +69,7 @@ def tweet_scraping(hashtag, length):
 
                     print(i, "pictures found!")
 
-                    FILE_NAME = hashtag +str(i)+ ".jpg"    
+                    FILE_NAME = hashtag + "_" + str(i)+ ".jpg"    
                     FILE_PATH = os.path.join(PHOTOS_PATH, FILE_NAME)
                     
                     urllib.request.urlretrieve(media_url, FILE_PATH)
