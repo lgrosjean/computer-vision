@@ -1,3 +1,3 @@
 @echo off
 chcp 65001 > nul
-C:\Users\lgrosjean\anaconda3\python.exe smile-detection.py %*
+C:\Anaconda3\python.exe C:\Users\Léo\ml\computer-vision\smile-detection-video\smile-detection.py %*
