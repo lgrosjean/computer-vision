@@ -1,5 +1,22 @@
 # Deep Learning
 
+## Comment installer son gpu et le configuer ?
+
+https://medium.com/@lmoroney_40129/installing-tensorflow-with-gpu-on-windows-10-3309fec55a00
+
+install CUDA v9.0 (not default installation --> only CUDA)
+
+need to set the path every time I want to run
+
+set PATH=%PATH%;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin
+
+from tensorflow.python.client import device_lib
+
+def get_available_gpus():
+    local_device_protos = device_lib.list_local_devices()
+    return [x.name for x in local_device_protos if x.device_type == 'GPU']
+
+## Objectifs
 
 
 *	Quels objectifs pour ce projet : 
