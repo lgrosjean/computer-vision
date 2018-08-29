@@ -1,15 +1,10 @@
 
-computer-vision/Mask_RCNN-LeG/mask_rcnn_coco.h5
+*.h5
 *.jpg
 *.pyc
 *.avi
 *.mp4
-scraping/google_images/.ipynb_checkpoints/google_image_scraping-checkpoint.ipynb
-
-# ignore ipynb checkpoint
 .ipynb_checkpoints
-
-# python egg metadata
 *.egg-info
 
 # ignore dist
