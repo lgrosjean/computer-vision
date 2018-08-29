@@ -14,7 +14,7 @@ Theis installation is mada for TensorFlow but after installed, GPU and CUDA are 
 
 3. To test the installation inside TensorFlow :
 
-```
+```python
 from tensorflow.python.client import device_lib
 
 def get_available_gpus():
