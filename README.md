@@ -10,8 +10,9 @@ Theis installation is mada for TensorFlow but after installed, GPU and CUDA are 
 
 2. Set the path to CUDA Toolkit. It could be done within the system environment variables, or directly in the prompt line :
 
-`set PATH=%PATH%;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin`
-
+```sh
+set PATH=%PATH%;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin
+```
 3. To test the installation inside TensorFlow :
 
 ```python
