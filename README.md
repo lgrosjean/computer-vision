@@ -56,13 +56,3 @@ def get_available_gpus():
     *	Soit sur ton ordi / CPU, lent mais toujours une possibilité
     *	GPU sur le cloud https://www.paperspace.com/ https://www.floydhub.com/ 
     *	GPU gratuit sur Kaggle / Colab https://colab.research.google.com/ 
-
-## Résultats
-
-En mêlant reconnaissance faciale et scrapping (du site de la FIFA et de twitter), on peut obtenir ce genre de résultat
-
-![Giroud-Griezmann](https://image.ibb.co/gLGwPy/Giroud_Griezmann.jpg)
-
-![Messi](https://image.ibb.co/gnFvHJ/test3.jpg)
-
-![Giroud-Lloris](https://image.ibb.co/cSxsxJ/test.jpg)
