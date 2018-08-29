@@ -1,6 +1,7 @@
 
 *.h5
 *.jpg
+*.jpeg
 *.pyc
 *.avi
 *.mp4
